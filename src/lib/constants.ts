@@ -32,6 +32,19 @@ export const homeContent = {
     { index: "02", title: "NGOs & community groups", body: "Clear stories, event pages, and donation or sign-up flows that respect the cause behind them." },
     { index: "03", title: "Redesigns & rescues", body: "Old, slow, or broken site? We rebuild it properly, then keep it running with ongoing care." }
   ],
+  workPreview: {
+    eyebrow: "Featured work",
+    heading: "Rang Mahal",
+    body: "A premium restaurant website for a Nagpur client — full menu, gallery, and location, built for a real dining crowd.",
+    image: "Rang Mahal screenshot placeholder",
+    linkText: "View all work"
+  },
+  processPreview: {
+    eyebrow: "How we work",
+    heading: "Live in five to seven days.",
+    steps: ["We meet", "We build", "You review", "We stay"],
+    linkText: "Read our full process"
+  },
   ctaBand: {
     line: "Every business deserves a first mile worth remembering.",
     cta: "Start a project"
